@@ -36,6 +36,7 @@ panel on the left:
 
 Delete existing table
 -- SQLBook: Code
+-- Active: 1745085263618@@127.0.0.1@5432@postgres
 -- Active: 1710903290079@@127.0.0.1@5432@postgres
 -- If the table already exists we can drop it:
 -- If it doesn't exist nothing happens
